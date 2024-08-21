@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(210, 214, 226);
+    background-size: cover;
+   
+   
+    
+}
+
+h1 {
+
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+ 
+p{
+
+    color: rgb(189, 23, 78);
+    border: 2px solid blue;
+    padding: 30px;
+    margin: 30px ;
+    font-size: 30px;
+    
+}
+img {
+    width: 300px;
+    height: 200px;
+    border-radius: 10%;
+}
+
+table{
+    border-style: solid;
+    border-color: blue;
+    width: 100%;
+    
+
+}
+td, th{
+    border: 5px,solid rgb(178, 133, 238);
+    text-align: left;
+    padding: 10px;
+}
+tr{
+    background-color: azure;
+}
+.houses{
+    background-color: chocolate;
+    font-weight: bolder;
+}
+.column{
+    width: 60%;
+    padding: 5px;
+    float: center; 
+}
